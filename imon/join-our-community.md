@@ -1,4 +1,10 @@
-# 🔑 Official Links
+---
+description: >-
+  Discover the power of Intelligent Monsters through a wide range of content,
+  from video interviews to real-time chats with the team.
+---
+
+# 👨❤💋👨 Join our community
 
 | Platform           | URL                                                                                                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
