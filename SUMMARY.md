@@ -3,7 +3,7 @@
 ## 🔗 IMON
 
 * [🌈 Introduction](README.md)
-* [👨❤💋👨 Join our community](imon/join-our-community.md)
+* [👨❤💋👨 Join our community](imon/official-links.md)
 * [🚀 IMON Intelligent Monsters](imon/imon-intelligent-monsters.md)
 * [🕚 Events](imon/events/README.md)
   * [💦 Airdrop](imon/events/airdrop.md)
