@@ -19,3 +19,5 @@ description: >-
 | **Rarible**            | [https://rarible.com/imon](https://rarible.com/imon)                                                                                                                   |
 | **Nomics**             | [https://nomics.com/assets/imon-intelligent-monsters](https://nomics.com/assets/imon-intelligent-monsters)                                                             |
 | **CoinGecko**          | [https://www.coingecko.com/tr/coins/intelligent-monsters](https://www.coingecko.com/tr/coins/intelligent-monsters)                                                     |
+| **CoinMarketCap**      | [https://coinmarketcap.com/currencies/intelligent-monsters/](https://coinmarketcap.com/currencies/intelligent-monsters/)                                               |
+
