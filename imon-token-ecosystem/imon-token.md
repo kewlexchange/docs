@@ -12,6 +12,18 @@ The IMON token is a pivotal component of the IMON ecosystem, designed to provide
 
 **NETWORKS**
 
+### Chiliz Network
+
+**Name:** Intelligent Monsters
+
+**Ticker:** IMON
+
+**Decimals:** 18
+
+**Total Supply:** 50.000.000
+
+**Contract Address:** 0x9631be8566fC71d91970b10AcfdEe29F21Da6C27
+
 ### Ethereum Network
 
 **Name:** Intelligent Monsters
