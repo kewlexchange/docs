@@ -1,2 +1,0 @@
-# 🖼 Intelligent NFT
-

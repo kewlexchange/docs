@@ -1,0 +1,10 @@
+---
+description: >-
+  Discover the power of Intelligent Monsters through a wide range of content,
+  from video interviews to real-time chats with the team.
+---
+
+# Join Our Community
+
+<table><thead><tr><th width="188.97847527433441">Platform</th><th>URL</th></tr></thead><tbody><tr><td><strong>Official Web Site</strong></td><td><a href="https://imon.ai">https://imon.ai</a></td></tr><tr><td><strong>Twitter</strong></td><td><a href="https://twitter.com/imondotai">https://twitter.com/imondotai</a></td></tr><tr><td><strong>Telegram</strong></td><td><a href="https://t.me/imondotai">https://t.me/imondotai</a></td></tr><tr><td><strong>Instagram</strong></td><td><a href="https://www.instagram.com/imondotai/">https://www.instagram.com/imondotai/</a></td></tr><tr><td><strong>Discord</strong></td><td><a href="https://discord.com/invite/7yXaMsS9J2">https://discord.com/invite/7yXaMsS9J2</a></td></tr><tr><td><strong>Medium</strong></td><td><a href="https://medium.com/@imonai">https://medium.com/@imonai</a></td></tr><tr><td><strong>OpenSEA</strong></td><td><a href="https://opensea.io/collection/imon">https://opensea.io/collection/imon</a></td></tr><tr><td><strong>Binance NFT Market</strong></td><td><a href="https://www.binance.com/en/nft/collection/intelligent-monsters-596401157819924480">https://www.binance.com/en/nft/collection/intelligent-monsters-596401157819924480</a></td></tr><tr><td><strong>Rarible</strong></td><td><a href="https://rarible.com/imon">https://rarible.com/imon</a></td></tr><tr><td><strong>Nomics</strong></td><td><a href="https://nomics.com/assets/imon-intelligent-monsters">https://nomics.com/assets/imon-intelligent-monsters</a></td></tr><tr><td><strong>CoinGecko</strong></td><td><a href="https://www.coingecko.com/tr/coins/intelligent-monsters">https://www.coingecko.com/tr/coins/intelligent-monsters</a></td></tr><tr><td><strong>CoinMarketCap</strong></td><td><a href="https://coinmarketcap.com/currencies/intelligent-monsters/">https://coinmarketcap.com/currencies/intelligent-monsters/</a></td></tr></tbody></table>
+

@@ -2,19 +2,23 @@
 
 ## 🔗 IMON
 
-* [🌈 Introduction](README.md)
-* [👨❤💋👨 Join our community](imon/official-links.md)
-* [🚀 IMON Intelligent Monsters](imon/imon-intelligent-monsters.md)
-* [🕚 Events](imon/events/README.md)
-  * [💦 Airdrop](imon/events/airdrop.md)
-  * [🍭 Liquidity Generation Event](imon/events/liquidity-generation-event.md)
-* [💰 Earn](imon/earn/README.md)
-  * [🇬🇬 🇬🇬 Stake](imon/earn/stake.md)
-  * [🧑🌾 🧑🌾 Farm](imon/earn/farm.md)
-* [🖼 Intelligent NFT](imon/intelligent-nft/README.md)
-  * [👨🏫 👨🏫 Train Your IMON](imon/intelligent-nft/train-your-imon.md)
-  * [🎙 Talk with IMON](imon/intelligent-nft/talk-with-imon.md)
-* [✨ IMON Token](imon/imon-token.md)
-* [🛍 NFT Market](imon/nft-market.md)
-* [🥈 Token Economics](imon/token-economics.md)
-* [🛣 Road Map](imon/road-map.md)
+* [Introduction](README.md)
+* [Mission and Vision](imon/mission-and-vision.md)
+
+***
+
+* [ECOSYSTEM](ecosystem.md)
+* [Our Products](our-products/README.md)
+  * [NFT Market](our-products/nft-market.md)
+  * [AI Trade Chat Bot](our-products/ai-trade-chat-bot.md)
+  * [Launchpad](our-products/launchpad.md)
+  * [IMON Swap](our-products/imon-swap.md)
+  * [Staking](our-products/staking.md)
+  * [Membership](our-products/membership.md)
+* [IMON Token Ecosystem](imon-token-ecosystem/README.md)
+  * [IMON Token](imon-token-ecosystem/imon-token.md)
+  * [Token Economics](imon-token-ecosystem/token-economics.md)
+
+## Learn More
+
+* [Join Our Community](learn-more/join-our-community.md)

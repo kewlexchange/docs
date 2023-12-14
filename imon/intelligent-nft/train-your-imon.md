@@ -1,2 +1,0 @@
-# 👨🏫 Train Your IMON
-
