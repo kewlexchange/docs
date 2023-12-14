@@ -1,6 +1,6 @@
 # Token Economics
 
-Adapting the HOOPX token allocation and funding model for IMON with a total supply of 50 million tokens:
+Adapting the IMON token allocation and funding model for IMON with a total supply of 50 million tokens:
 
 1. **Team (10% - 5,000,000 IMON)**: Supports development, operations, and compensation.
 2. **Advisors (5% - 2,500,000 IMON)**: Compensates strategic advisors.
