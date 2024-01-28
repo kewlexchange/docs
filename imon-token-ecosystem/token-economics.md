@@ -2,14 +2,12 @@
 
 Adapting the IMON token allocation and funding model for IMON with a total supply of 50 million tokens:
 
-1. **Team (10% - 5,000,000 IMON)**: Supports development, operations, and compensation.
-2. **Advisors (5% - 2,500,000 IMON)**: Compensates strategic advisors.
-3. **Reserve Fund (5% - 2,500,000 IMON)**: Addresses unforeseen expenses.
-4. **Marketing and Partnerships (10% - 5,000,000 IMON)**: Drives growth and alliances.
-5. **Liquidity (10% - 5,000,000 IMON)**: Ensures market stability.
-6. **Platform Incentives (10% - 5,000,000 IMON)**: Encourages community engagement.
-7. **Private Sale (40% - 20,000,000 IMON)**: Funds from early investors.
-8. **Public Sale (10% - 5,000,000 IMON)**: Broadens investor community.
+1. **Team & Advisors (%5 - 2,500,000 IMON)**: Supports development, operations,  compensation and compensates strategic advisors.
+2. **Reserve Fund (5% - 2,500,000 IMON)**: Addresses unforeseen expenses.
+3. **Marketing and Partnerships (5% - 2,500,000 IMON)**: Drives growth and alliances.
+4. **Liquidity (10% - 5,000,000 IMON)**: Ensures market stability.
+5. **Platform Incentives (5% - 2,500,000 IMON)**: Encourages community engagement.
+6. **Public Sale (70% - 35,000,000 IMON)**: Broadens investor community.
 
 **Funding Allocation**:
 
