@@ -1,7 +1,7 @@
 ---
 description: >-
-  Discover the power of Intelligent Monsters through a wide range of content,
-  from video interviews to real-time chats with the team.
+  Discover the power of KEWL through a wide range of content, from video
+  interviews to real-time chats with the team.
 ---
 
 # Join Our Community
