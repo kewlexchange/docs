@@ -7,13 +7,9 @@
 ***
 
 * [Our Products](our-products/README.md)
+  * [Swap](our-products/swap.md)
   * [NFT Market](our-products/nft-market.md)
   * [Launchpad](our-products/launchpad.md)
-  * [Staking](our-products/staking.md)
-  * [Swap](our-products/swap.md)
-* [IMON Token Ecosystem](imon-token-ecosystem/README.md)
-  * [IMON Token](imon-token-ecosystem/imon-token.md)
-  * [Token Economics](imon-token-ecosystem/token-economics.md)
 
 ## Learn More
 

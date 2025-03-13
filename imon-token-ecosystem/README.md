@@ -1,2 +1,0 @@
-# IMON Token Ecosystem
-
