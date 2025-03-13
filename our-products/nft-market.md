@@ -1,6 +1,6 @@
 # NFT Market
 
-In conceptualizing an NFT market for a blockchain project like IMON, the focus would be on creating an innovative and user-friendly platform. This market would allow artists and creators to mint, showcase, and sell their unique digital artworks as NFTs, providing them with a new avenue for recognition and revenue. The platform would integrate advanced blockchain security features to ensure authenticity and ownership. Additionally, it would offer a community-driven space where collectors and enthusiasts can discover, purchase, and trade NFTs, fostering a vibrant ecosystem of digital art and creativity.
+In conceptualizing an NFT market for a blockchain project like KEWL, the focus would be on creating an innovative and user-friendly platform. This market would allow artists and creators to mint, showcase, and sell their unique digital artworks as NFTs, providing them with a new avenue for recognition and revenue. The platform would integrate advanced blockchain security features to ensure authenticity and ownership. Additionally, it would offer a community-driven space where collectors and enthusiasts can discover, purchase, and trade NFTs, fostering a vibrant ecosystem of digital art and creativity.
 
 
 
