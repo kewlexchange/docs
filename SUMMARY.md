@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PEPPER VOLUME COMPETITION](README.md)
+* [PEPPER Büyük Hacim Yarışması](README.md)
 
 ## Learn More
 
