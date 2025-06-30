@@ -36,14 +36,29 @@ Yarışma sonunda en çok hacim yapan ilk 5 trader’a verilir.
 
 ## 🥇 İlk 5 Trader Ödül Dağılımı
 
-#### (Toplam 7.500 USDT)
+### **📅  Faz 1 – 1. Ay Ödülü: 3.600 USDT**
 
-| 1. | 2.500 | 33.3% |
-| -- | ----- | ----- |
-| 2. | 2.000 | 26.7% |
-| 3. | 1.500 | 20.0% |
-| 4. | 900   | 12.0% |
-| 5. | 600   | 8.0%  |
+| 1. | 1.250 |
+| -- | ----- |
+| 2. | 850   |
+| 3. | 600   |
+| 4. | 500   |
+| 5. | 400   |
+
+### **📅 Faz 2 – 2. Ay Ödülü: 3.900 USDT**
+
+| 1. | 1.450 |
+| -- | ----- |
+| 2. | 950   |
+| 3. | 650   |
+| 4. | 500   |
+| 5. | 350   |
+
+#### 🧠 Neden Bu Dağılım?
+
+* Her sıra eşsiz ödül alıyor: Katılımcılar sıralama için daha agresif rekabet eder.
+* 1\. Ay & 2. Ay kıyaslı: 2. ay biraz daha fazla vererek yarışma sonuna kadar ilgiyi canlı tutar.
+* Adaletli eğim: İlk üç pozisyona net farklar var, 4-5’te de gerilim korunuyor.
 
 ## 📅 Günlük Dağıtım Detayı (Toplam 15.000 USDT → 60 güne bölünür)
 
