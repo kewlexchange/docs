@@ -1,15 +1,6 @@
 # Table of contents
 
-## 🔗 KEWL <a href="#swap" id="swap"></a>
-
-* [Introduction](README.md)
-
-***
-
-* [Our Products](our-products/README.md)
-  * [Swap](our-products/swap.md)
-  * [NFT Market](our-products/nft-market.md)
-  * [Launchpad](our-products/launchpad.md)
+* [PEPPER VOLUME COMPETITION](README.md)
 
 ## Learn More
 
