@@ -4,11 +4,13 @@ description: >-
   hacme göre dağıtılacak.
 ---
 
-# PEPPER VOLUME COMPETITION
+# PEPPER Büyük Hacim Yarışması
 
 🚀 PEPPER x KEWL Büyük Hacim Yarışması\
 🎯 Toplam Ödül: 22.500 USDT\
 ⏳ Süre: 2 Ay boyunca, her gün ödül var!
+
+<figure><img src=".gitbook/assets/Ekran Resmi 2025-06-30 23.36.48.png" alt=""><figcaption></figcaption></figure>
 
 ## 🔥 Nasıl Dağıtılıyor?
 
